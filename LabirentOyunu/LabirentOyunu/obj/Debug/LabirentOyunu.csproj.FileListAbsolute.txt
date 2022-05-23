@@ -1,0 +1,11 @@
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe.config
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\bin\Debug\LabirentOyunu.pdb
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.Form1.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.Properties.Resources.resources
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.GenerateResource.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.exe
+C:\Users\acer\OneDrive\Masaüstü\Udemy\CS_Programlama\LabirentOyunu\LabirentOyunu\obj\Debug\LabirentOyunu.pdb
